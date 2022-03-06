@@ -1,0 +1,5 @@
+# Used techniques to image classification.
+https://www.tensorflow.org/tutorials/images/classification - used to learn how to do image classification
+
+
+

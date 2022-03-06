@@ -1,3 +1,6 @@
 test_images
 train_images
+test_images256_256
+train_images256_256
+models
 .ipynb_checkpoints/
