@@ -1,5 +1,18 @@
+Works Cited reference and brainstorm page.
+
+
 # Used techniques to image classification.
 https://www.tensorflow.org/tutorials/images/classification - used to learn how to do image classification
 
 
+# Great summary of what convultional networks are and how they function. I will use this to describe my thinking.
+https://towardsdatascience.com/building-a-convolutional-neural-network-cnn-in-keras-329fbbadc5f5
 
+"A convolution multiplies a matrix of pixels with a filter matrix or ‘kernel’ and sums up the multiplication values. Then the convolution slides over to the next pixel and repeats the same process until all the image pixels have been covered. This process is visualized below. (For an introduction to deep learning and neural networks, you can refer to my deep learning article here)."
+
+# Scoring of predictions - Maybe discus this topic here
+https://medium.com/voice-tech-global/machine-learning-confidence-scores-all-you-need-to-know-as-a-conversation-designer-8babd39caae7
+
+
+# This code he actually make predicitions, mostly incorrect, might be a good place to look though? 
+https://www.kaggle.com/nikhiljothiprakash/happy-whale-and-dolphin
