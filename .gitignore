@@ -5,3 +5,4 @@ train_images256_256
 models
 .ipynb_checkpoints/
 trainImages.tfrecords
+tfrecords

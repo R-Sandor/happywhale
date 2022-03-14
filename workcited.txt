@@ -16,3 +16,6 @@ https://medium.com/voice-tech-global/machine-learning-confidence-scores-all-you-
 
 # This code he actually make predicitions, mostly incorrect, might be a good place to look though? 
 https://www.kaggle.com/nikhiljothiprakash/happy-whale-and-dolphin
+
+# Andre C. Ferreira did individual identification with birds
+https://github.com/AndreCFerreira/Bird_individualID/blob/master/Train_CNN/TRAIN_CNN.ipynb
